@@ -1,0 +1,5 @@
+Suelo: https://3dtextures.me/2018/03/30/asphalt-004/
+Música de fondo: https://pixabay.com/music/modern-classical-calm-and-soft-piano-music-250818/
+Skybox: https://freestylized.com/skybox/sky_39/
+
+El personaje y las animaciones se han obtenido de Mixamo. Para obtener las fuentes originales, basta con mirar el nombre de cada fichero.
